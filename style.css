@@ -441,7 +441,7 @@ body {
     color: #6bec14;
 }
 
-#bewsletter .form {
+#newsletter .form {
     display: flex;
     width: 40%;    
 }
@@ -1045,6 +1045,7 @@ footer a:hover {
     }
 
     #newsletter .form {
+        display:flex;
         width: 70%;
     }
 
